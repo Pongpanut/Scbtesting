@@ -1,3 +1,5 @@
+From an assignment. I selected Quiz number 1 kub
+
 1. Click SwappingApp.exe to lunch the program
 
 2. Screen will display "Please input number of operation and number of iteration and put space as seperator" text
@@ -11,10 +13,10 @@
    
 
 
-Note: The complexity of this program is (kn) [k is #operation, n is #iteration].
+Note: The complexity of this program is Big omega(kn) [k is #operation, n is #iteration].
         
- I have applied dynamic programming with top-down approach (Memoization).
+      I have applied dynamic programming technique with top-down approach (Memoization).
 	       
-I expect the complexity should reduced to O(kn)
+      I expect the complexity should reduced to O(kn)
 
 .
